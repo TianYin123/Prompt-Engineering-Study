@@ -2,7 +2,21 @@
 
 在学习该文章之前，最好有Prompt Engineering的基础，推荐先学习Introduction to Prompt，以了解基础概念。
 
-[toc]
+- [微软Prompt Engineering technique](#--prompt-engineering-technique)
+  * [System message 系统消息](#system-message-----)
+  * [Few-shot learning 小样本学习](#few-shot-learning------)
+  * [Start with clear instructions 从明确的指令开始&Repeat instructions at the end 在最后重复说明](#start-with-clear-instructions----------repeat-instructions-at-the-end--------)
+  * [Prime the output 启动输出](#prime-the-output-----)
+  * [Add clear syntax 添加清晰的语法](#add-clear-syntax--------)
+  * [Break the task down 分解任务](#break-the-task-down-----)
+  * [Use of affordances 使用引用(Supporting content)](#use-of-affordances------supporting-content-)
+  * [Chain of thought prompting 思维链](#chain-of-thought-prompting----)
+  * [Specifying the output structure 指定输出结构](#specifying-the-output-structure-------)
+  * [Temperature and Top_p parameters 温度和 Top_p 参数](#temperature-and-top-p-parameters-----top-p---)
+  * [Provide grounding context 提供基础背景](#provide-grounding-context-------)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## System message 系统消息
 
