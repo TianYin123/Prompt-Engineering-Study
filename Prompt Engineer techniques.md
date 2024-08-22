@@ -15,7 +15,6 @@
   * [Temperature and Top_p parameters 温度和 Top_p 参数](#temperature-and-top-p-parameters-----top-p---)
   * [Provide grounding context 提供基础背景](#provide-grounding-context-------)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## System message 系统消息
