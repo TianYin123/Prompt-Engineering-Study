@@ -9,6 +9,7 @@
 - 吴恩达老师的Prompt Engineering教程网上有很多总结，写的都很好，我就不重复造轮子了，这里举出两个：
   1. Prompt Engineering 中文版教程分享.pptx，总结自吴恩达的Prompt Engineering b站官方课。作者是b站云飞爱学习win，讲的通俗易懂，很适合零基础小白入手。
   2. 犀牛书Prompt的教程，包含代码，结构性强，地址：https://prompt-engineering.xiniushu.com/
- 
+
+针对.md文件中图片不显示的问题，是因为电脑本机被DNS污染，下载到本地即可查看图片。
 
 如果觉得有用不妨点一个小星星吧~:star:
