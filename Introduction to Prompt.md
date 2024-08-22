@@ -1,6 +1,15 @@
 #   微软Prompt Engineering
 
-[toc]
+- [微软Prompt Engineering](#--prompt-engineering)
+  * [Instruct 指令](#instruct---)
+  * [Primary Content 主要内容](#primary-content-----)
+  * [Examples 例子](#examples---)
+  * [Cue 提示](#cue---)
+  * [Supporting content 辅助信息](#supporting-content-----)
+  * [Space efficiency 输入效率](#space-efficiency-----)
+
+<small><i></i></small>
+
 
 ##  Instruct 指令
 
