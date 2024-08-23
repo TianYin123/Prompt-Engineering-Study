@@ -10,8 +10,5 @@
   1. Prompt Engineering 中文版教程分享.pptx，总结自吴恩达的Prompt Engineering b站官方课。作者是b站云飞爱学习win，讲的通俗易懂，很适合零基础小白入手。
   2. 犀牛书Prompt的教程，包含代码，结构性强，地址：https://prompt-engineering.xiniushu.com/
 
-PS：
-- 如果遇到.md文件中图片不显示的问题，是因为电脑本机被DNS污染，将整个project下载到本地即可查看图片。
-- 本地下载下来的.md文件中目录格式可能会显示混乱，这是因为GitHub不支持[toc]目录编码导致的，将目录全部内容替换为换为[toc]即可解决问题。
 
 **如果觉得有用不妨点一个小星星吧~**
