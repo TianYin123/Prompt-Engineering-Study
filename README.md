@@ -12,6 +12,8 @@
 - 想要了解CO-STAR框架的同学可以看这篇文章：[如何写好大模型提示词？来自大赛冠军的经验分享（基础篇）](https://mp.weixin.qq.com/s?__biz=MzkzMTI3MTg5MQ==&mid=2247484732&idx=1&sn=bb155ad71f69a8b6aefe7f8557192620&chksm=c26cc080f51b4996fbb197d6a1fbdce5a45aad000747178e06abea12c89a5601101309012e68&scene=21#wechat_redirect)
 - 想要深入了解在Prompt Engineering techniques.md中提及的System message的同学可以看：[如何写好大模型提示词？来自大赛冠军的经验分享（进阶篇）](https://juejin.cn/post/7326445377125367823)
 - Prompt Engineering Guide是一个较为系统的Prompt技术介绍站，涵盖了Prompt工程的方方面面，但其中内容较为浅显，并且有很多内容尚未完善，适合将其目录作为一个学习框架，自主学习。其中“提示技术”板块包含了Prompt技术的论文链接：[Prompt Engineering Guide](https://www.promptingguide.ai/zh/techniques)
+- 面向工程的Prompt编写工具：[ClickPrompt](https://github.com/prompt-engineering/click-prompt/tree/dev)
+- Prompt编写模式的介绍：[Prompt 编写模式：如何将思维框架赋予机器](https://github.com/phodal/prompt-patterns)
 
-
+PS:如果你发现了高效且未被收录的中文Prompt教程，请告知我，我会补上。
 **如果觉得有用不妨点一个小星星吧~**
