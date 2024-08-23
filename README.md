@@ -15,5 +15,7 @@
 - 面向工程的Prompt编写工具：[ClickPrompt](https://github.com/prompt-engineering/click-prompt/tree/dev)
 - Prompt编写模式的介绍：[Prompt 编写模式：如何将思维框架赋予机器](https://github.com/phodal/prompt-patterns)
 
+
 PS:如果你发现了高效且未被收录的中文Prompt教程，请告知我，我会补上。
+
 **如果觉得有用不妨点一个小星星吧~**
